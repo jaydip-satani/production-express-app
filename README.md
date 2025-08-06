@@ -134,4 +134,6 @@ Contributions, issues, and feature requests are welcome!
 
 If you like this CLI, give it a ⭐ on [GitHub](https://github.com/jaydip-satani/production-express-app) or share it with others!
 
+[![npm version](https://img.shields.io/npm/v/production-express-app.svg)](https://www.npmjs.com/package/production-express-app)
+
 ## [![Support via Razorpay](https://img.shields.io/badge/Buy%20Me%20a%20Chai-%E2%98%95-orange?style=for-the-badge)](https://razorpay.me/@jaydipsatani)
