@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "lib/helpers.js",
   "bin": {
-    "production-express-app": "./bin/index.js"
+    "production-express-app": "bin/index.js"
   },
   "scripts": {
     "start": "node bin/index.js"
@@ -38,7 +38,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jaydip-satani/production-express-app.git"
+    "url": "git+https://github.com/jaydip-satani/production-express-app.git"
   },
   "bugs": {
     "url": "https://github.com/jaydip-satani/production-express-app/issues"
