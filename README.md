@@ -133,3 +133,5 @@ Contributions, issues, and feature requests are welcome!
 ## ⭐ Show Your Support
 
 If you like this CLI, give it a ⭐ on [GitHub](https://github.com/jaydip-satani/production-express-app) or share it with others!
+
+## [![Support via Razorpay](https://img.shields.io/badge/Buy%20Me%20a%20Chai-%E2%98%95-orange?style=for-the-badge)](https://razorpay.me/@jaydipsatani)
