@@ -1,15 +1,11 @@
----
-````markdown
-# 🚀 Production Express App CLI
+# Production Express App CLI
 
 A professional CLI tool to generate a **production-ready Express.js backend** boilerplate with clean architecture, modern folder structure, and dependency setup.
 
-> ✅ Supports JavaScript and TypeScript  
-> ✅ Choose between CommonJS and ESModule  
-> ✅ Clean scalable folder structure  
-> ✅ Pre-configured with `.env`, Docker, ESLint, Prettier, Swagger, and more!
-
----
+> - Supports JavaScript and TypeScript
+> - Choose between CommonJS and ESModule
+> - Clean scalable folder structure
+> - Pre-configured with `.env`, Docker, ESLint, Prettier, Swagger, and more!
 
 ## 📦 Installation
 
@@ -19,7 +15,7 @@ Install globally via npm:
 npm install -g production-express-app
 ```
 
-## 🧪 Usage
+## Usage
 
 ```bash
 production-express-app
