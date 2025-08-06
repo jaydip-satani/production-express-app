@@ -15,10 +15,12 @@ Install globally via npm:
 npm install -g production-express-app
 ```
 
-## Usage
+## Usage (Recommended)
+
+Use it with npx (no need to install globally):
 
 ```bash
-production-express-app
+npx production-express-app
 ```
 
 You'll be prompted to select:
