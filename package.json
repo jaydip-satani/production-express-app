@@ -1,0 +1,53 @@
+{
+  "name": "production-express-app",
+  "version": "1.0.0",
+  "description": "A professional CLI tool to generate a production-ready Express backend boilerplate with clean architecture and modern folder structure.",
+  "author": "Jaydip",
+  "license": "MIT",
+  "main": "lib/helpers.js",
+  "bin": {
+    "production-express-app": "./bin/index.js"
+  },
+  "scripts": {
+    "start": "node bin/index.js"
+  },
+  "keywords": [
+    "cli",
+    "express",
+    "backend",
+    "nodejs",
+    "starter",
+    "scaffold",
+    "boilerplate",
+    "production-ready",
+    "typescript",
+    "javascript",
+    "template",
+    "project-generator",
+    "api",
+    "rest"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "execa": "^5.1.1",
+    "fs-extra": "^11.3.1",
+    "inquirer": "^8.2.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaydip-satani/production-express-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jaydip-satani/production-express-app/issues"
+  },
+  "homepage": "https://github.com/jaydip-satani/production-express-app#readme",
+  "files": [
+    "bin/",
+    "lib/",
+    "README.md"
+  ],
+  "type": "commonjs"
+}

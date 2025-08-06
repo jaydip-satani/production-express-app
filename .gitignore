@@ -1,0 +1,60 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime files
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment files
+.env
+.env.*
+
+# Build output
+dist/
+build/
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# TypeScript
+*.tsbuildinfo
+
+# VSCode settings
+.vscode/
+.history/
+
+# IDE-specific
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
+
+# Test-related
+test-results/
+tests-output/
+coverage-final.json
+jest-test-results.json
+
+# Swagger
+swagger.json
+swagger.yaml
+
+# Lint and format cache
+.eslintcache
+.prettiercache
