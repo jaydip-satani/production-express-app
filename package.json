@@ -1,6 +1,6 @@
 {
   "name": "create-production-express-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A professional CLI tool to generate a production-ready Express backend boilerplate with clean architecture and modern folder structure.",
   "author": "Jaydip",
   "license": "MIT",
