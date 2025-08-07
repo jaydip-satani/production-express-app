@@ -116,7 +116,7 @@ Feel free to reach out on [GitHub](https://github.com/jaydip-satani)
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **[MIT License](./LICENSE).**
 
 ---
 
